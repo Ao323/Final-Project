@@ -22,6 +22,11 @@ However, when trying to install the nodes on ComfyUI, I got a installation error
 
 After this, I decided to try to use the Comfy-UI-3D pack instead as it could transform a single image into a multi-view set. However, this pack also decided to have installation errors. Since I was unable to use both nodes, I took the 3-D model I got from ComfyUI and ran it throught a seperate image to texture generator that wasn't avalible on ComfyUI.
 
+![imagec3](https://github.com/user-attachments/assets/72c683fd-7e3a-40dd-89ab-2537b992dabd)
+![imagec2](https://github.com/user-attachments/assets/61d226de-4d79-4e64-9d54-7b7036f2443c)
+![imagec1](https://github.com/user-attachments/assets/6a02ff65-57cd-424f-b5c2-86c45aa2e747)
+
+
 ## Hopeful Results
 
 I was hoping to be able to create models like this in ComfyUI and while I was able to generate 3-D models, I primarily had difficulties with texturing. In the future I will (hopefully) fix the installation issues and be able to properly run either MV-Adapter or Comfy-UI-3D and create a functional workflow.

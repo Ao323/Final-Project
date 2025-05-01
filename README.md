@@ -1,7 +1,4 @@
-# Lumen-Print-Dataset
-## Lumen-Print Dataset
-
-##Gathering Data
+# Final Project
 ---
 
 ## First Steps
@@ -19,6 +16,7 @@ My first problem was that I couldn't find any nodes that support transfering a 2
 
 However, when trying to install the nodes on ComfyUI, I got a installation error, so I was unable to use the nodes. But if it was successful, the end results would look similar to these results.
 
+![turnaround](https://github.com/user-attachments/assets/01fe94ef-cdfe-446a-87a8-6c7bf2877d2b)
 
 ## More Problems
 
